@@ -1,5 +1,5 @@
 // JSON প্লেলিস্টের URL (আপনার নিজের JSON ফাইলের লিংক দিন)
-const playlistUrl = "https://your-domain.com/playlist.json"; // <-- এখানে আপনার JSON URL দিন
+const playlistUrl = "playlist.json"; // <-- এখানে আপনার JSON URL দিন
 
 let clapprPlayer;
 
